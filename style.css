@@ -1,0 +1,11 @@
+#search_result {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  left: 0;
+  z-index: 999;
+}
+.dropdown-menu.show {
+  min-width: 336px;
+  font-size: 14px;
+}
